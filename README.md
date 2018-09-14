@@ -1,5 +1,5 @@
 # machine-learning
-Andrew Ng's machine learning  programming assignments on Coursera
+My programming assignments of Andrew Ng's machine learning on Coursera
 
 This course link is：
 
@@ -7,7 +7,7 @@ https://www.coursera.org/learn/machine-learning
 
 <br />
 
-Coursera上的Andrew Ng的机器学习编程作业
+我提交的Coursera上的Andrew Ng的机器学习编程作业代码
 
 此课程链接为：
 
