@@ -1,11 +1,11 @@
 # machine-learning
-My programming assignments of Andrew Ng's machine learning on Coursera
+My programming assignments of Andrew Ng's Machine Learning on Coursera
 
-This course link is：
+The link for the course：
 
 https://www.coursera.org/learn/machine-learning
 
-If there are any problems, feel free to contact me.
+Contact me if you have any questions.
 
 Email:zjy112553@gmail.com
 
