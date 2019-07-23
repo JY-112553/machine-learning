@@ -32,12 +32,8 @@ X = [ones(m, 1) X];
 
 all_theta = all_theta';
 h = sigmoid(X * all_theta);
-h = round(h);
 for i = 1:m
     [~, temp] = max(h(i, :));
-    if temp == 10
-        temp = 0;
-    end
     p(i) = temp;
 end
 

@@ -25,12 +25,8 @@ X = [ones(m, 1) X];
 temp = sigmoid(X * Theta1');
 temp = [ones(m, 1) temp];
 r = sigmoid(temp * Theta2');
-r = round(r);
 for i = 1:m
     [~, temp] = max(r(i, :));
-    if temp == 10
-        temp = 0;
-    end
     p(i) = temp;
 end
 
